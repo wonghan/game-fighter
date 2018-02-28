@@ -40,7 +40,7 @@ https://wonghan.github.io/game-fighter/
 ![](./demo/game-in.png)
 
 #### 1.3、游戏成功
-在每一关卡中，成功消灭所有的怪兽，则显示游戏通过成功。可以点击“再玩一次” 回到游戏进行界面
+在最后关卡中，成功消灭所有的怪兽，则显示游戏通过成功。可以点击“再玩一次” 回到游戏进行界面
 
 ![](./demo/game-success.png)
 
@@ -59,7 +59,7 @@ https://wonghan.github.io/game-fighter/
 - `怪兽移动区域`: 蓝色区域，尺寸为 640 * 440
 - `飞机移动区域`: 黄色区域表示飞机移动区域，尺寸为 640 * 100
 
-![](.demo/game-platform.jpg)
+![](./demo/game-platform.jpg)
 
 #### 2.1、实现游戏元素 - 飞机（游戏主角）
 
