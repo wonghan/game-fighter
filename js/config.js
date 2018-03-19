@@ -14,7 +14,7 @@
     enemySpeed: 2, // 默认敌人移动距离
     enemySize: 50, // 默认敌人的尺寸
     enemyGap: 10,  // 默认敌人之间的间距
-    enemyDistance: 50, //默认敌人向下走的距离
+    enemyDistance: 50, // 默认敌人向下走的距离
     enemyDirection: 'right', // 默认敌人一开始往右移动
     planeSpeed: 5, // 默认飞机每一步移动的距离
     planeSize: {
@@ -38,4 +38,4 @@
         }
       ]
     }
-  };
+  }
